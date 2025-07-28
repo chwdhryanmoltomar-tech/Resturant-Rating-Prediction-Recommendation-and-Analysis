@@ -60,7 +60,7 @@ Split training data and test data in the ratio 8:2
 My restaurant rating prediction model obtained a R2 score of 0.98.
 Random Forest performs better on the model than logistic regression.
 
-## INsights from ERD 
+## Insights from ERD 
 Expensive restaurants tend to have higher ratings.
 Visualized the geospatial distribution of restaurants on the map using their co-ordinates.
 New Delhi has the highest number of restaurants.
